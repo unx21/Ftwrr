@@ -42,11 +42,11 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#796](https://github.com/Nurutomo/wabot-aq/issues/796) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-2. ❗️ Opened issue [#231](https://github.com/ariffb25/stikerinbot/issues/231) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
-3. ❌ Closed PR [#230](https://github.com/ariffb25/stikerinbot/pull/230) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
-4. 🗣 Commented on [#230](https://github.com/ariffb25/stikerinbot/issues/230) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
-5. 🗣 Commented on [#888](https://github.com/Nurutomo/wabot-aq/issues/888) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+1. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+2. 🗣 Commented on [#796](https://github.com/Nurutomo/wabot-aq/issues/796) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+3. ❗️ Opened issue [#231](https://github.com/ariffb25/stikerinbot/issues/231) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
+4. ❌ Closed PR [#230](https://github.com/ariffb25/stikerinbot/pull/230) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
+5. 🗣 Commented on [#230](https://github.com/ariffb25/stikerinbot/issues/230) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
 <!--END_SECTION:activity-->
 
 </details>
