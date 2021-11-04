@@ -1,4 +1,4 @@
-# Hai, nama gweh [fatur][whatsapp] - aka [Ftwrr][website] <img src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="40" height="40" />
+# Hai, nama gweh [fatur][whatsapp] - aka [Ftwrr][website] <img src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" width="300" height="70" />
 
 [![Website](https://img.shields.io/website?label=Ftwrr&style=for-the-badge&url=https://github.com/Ftwrr&logo=onlyfans)](https://github.com/Ftwrr)
 <img src="https://github.githubassets.com/images/mona-whisper.gif" />
@@ -12,7 +12,7 @@
 
 ### Mutualan:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="wangsaff" width="22px" src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/whatsapp.svg" />][whatsapp]
 
 
 <br />
