@@ -109,6 +109,9 @@ JavaScript               6 repos             ███████████�
  Last Updated on 04/11/2021
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [website]: https://github.com/Ftwrr
 [whatsapp]: https://api.whatsapp.com/send/?phone=62823944158720&text&app_absent=0
 [sublimetext]: https://www.sublimetext.com/
