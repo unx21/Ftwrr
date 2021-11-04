@@ -4,7 +4,7 @@
 ![Memek](https://github.githubassets.com/images/mona-whisper.gif)
 ![Kontol](https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524)
 
-## bukan siapa siapa
+## Bukan siapa siapa
 
 - 🌱 Gw lagi ngocok
 - 🥅 2022 Goals: Berhenti ngocok
