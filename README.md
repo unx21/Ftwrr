@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/website?label=Ftwrr&style=for-the-badge&url=https://github.com/Ftwrr&logo=onlyfans)](https://github.com/Ftwrr)
 <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 <img src="https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524" /> 
+<img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" /> 
 
 ## Bukan siapa siapa
 
@@ -42,11 +43,6 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-2. 🗣 Commented on [#796](https://github.com/Nurutomo/wabot-aq/issues/796) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-3. ❗️ Opened issue [#231](https://github.com/ariffb25/stikerinbot/issues/231) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
-4. ❌ Closed PR [#230](https://github.com/ariffb25/stikerinbot/pull/230) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
-5. 🗣 Commented on [#230](https://github.com/ariffb25/stikerinbot/issues/230) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
 <!--END_SECTION:activity-->
 
 </details>
