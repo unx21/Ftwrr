@@ -35,20 +35,78 @@
 ### Kerjaan gw tiap hari
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#893](https://github.com/Nurutomo/wabot-aq/pull/893) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-2. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-3. 🗣 Commented on [#892](https://github.com/Nurutomo/wabot-aq/issues/892) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-4. 🗣 Commented on [#796](https://github.com/Nurutomo/wabot-aq/issues/796) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-5. ❗️ Opened issue [#231](https://github.com/ariffb25/stikerinbot/issues/231) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
-<!--END_SECTION:activity-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 319 Contributions in the Year 2021
+ > 
+> 📦 62.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
+🌆 Daytime    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
+🌃 Evening    187 commits    █████████░░░░░░░░░░░░░░░░   38.32% 
+🌙 Night      144 commits    ███████░░░░░░░░░░░░░░░░░░   29.51%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       76 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+Tuesday      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.99% 
+Wednesday    106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.72% 
+Thursday     144 commits    ███████░░░░░░░░░░░░░░░░░░   29.51% 
+Friday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+Saturday     31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+Sunday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
+
+```
 
 
-</details>
+📊 **This Week I Spent My Time On** 
 
-<!--START_SECTION:waka-->
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Markdown                 23 mins             █████████████░░░░░░░░░░░░   51.67% 
+JavaScript               22 mins             ████████████░░░░░░░░░░░░░   48.33%
+
+🔥 Editors: 
+Sublime Text             45 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+ftwrr                    23 mins             █████████████░░░░░░░░░░░░   51.67% 
+wabotre                  22 mins             ████████████░░░░░░░░░░░░░   48.33%
+
+💻 Operating System: 
+Windows                  45 mins             █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Ftwrr/Ftwrr/main/charts/bar_graph.png) 
+
+
+ Last Updated on 04/11/2021
 <!--END_SECTION:waka-->
 
 [website]: https://github.com/Ftwrr
