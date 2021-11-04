@@ -1,8 +1,8 @@
-### Hai kontol, nama gweh [fatur][whatsapp] - aka [Ftwrr][website] 👋
+# Hai, nama gweh [fatur][whatsapp] - aka [Ftwrr][website] <img src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="40" height="40" />
 
 [![Website](https://img.shields.io/website?label=Ftwrr&style=for-the-badge&url=https://github.com/Ftwrr&logo=onlyfans)](https://github.com/Ftwrr)
-![Memek](https://github.githubassets.com/images/mona-whisper.gif)
-![Kontol](https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524)
+<img src="https://github.githubassets.com/images/mona-whisper.gif" />
+<img src="https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524" /> 
 
 ## Bukan siapa siapa
 
