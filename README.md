@@ -32,6 +32,10 @@
 
 ### Github
 
+  <img align="right" alt="Fatur GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ftwrr&show_icons=true&theme=dracula" />
+  <img align="left" alt="Fatur top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftwrr" />
+  <img align="right" alt="Fatur Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ftwrr" />
+  <img align="left" alt="Fatur streaks" src="http://github-readme-streak-stats.herokuapp.com/?user=ftwrr" />
 
 <details>
   <summary>GitHub Activity</summary>
@@ -41,15 +45,9 @@
 
 </details>
 
-<details>
   <summary>Gw gapunya skill</summary>
 
-  <img align="right" alt="Fatur GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ftwrr&show_icons=true&theme=dracula" />
-  <img align="left" alt="Fatur top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftwrr" />
-  <img align="right" alt="Fatur Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ftwrr" />
-  <img align="left" alt="Fatur streaks" src="http://github-readme-streak-stats.herokuapp.com/?user=ftwrr" />
 
-</details>
 
 [website]: https://github.com/Ftwrr
 [whatsapp]: https://api.whatsapp.com/send/?phone=62823944158720&text&app_absent=0
