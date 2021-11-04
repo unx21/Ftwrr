@@ -39,7 +39,7 @@
   <img align="left" alt="Fatur streaks" src="http://github-readme-streak-stats.herokuapp.com/?user=ftwrr" />
 
 <details>
-  <summary>:zap: GitHub Activity</summary>
+  <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
