@@ -42,11 +42,11 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#888](https://github.com/Nurutomo/wabot-aq/issues/888) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-2. 💪 Opened PR [#890](https://github.com/Nurutomo/wabot-aq/pull/890) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-3. 💪 Opened PR [#889](https://github.com/Nurutomo/wabot-aq/pull/889) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-4. 🗣 Commented on [#878](https://github.com/Nurutomo/wabot-aq/issues/878) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
-5. 🗣 Commented on [#888](https://github.com/Nurutomo/wabot-aq/issues/888) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+1. 🗣 Commented on [#230](https://github.com/ariffb25/stikerinbot/issues/230) in [ariffb25/stikerinbot](https://github.com/ariffb25/stikerinbot)
+2. 🗣 Commented on [#888](https://github.com/Nurutomo/wabot-aq/issues/888) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+3. 💪 Opened PR [#890](https://github.com/Nurutomo/wabot-aq/pull/890) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+4. 💪 Opened PR [#889](https://github.com/Nurutomo/wabot-aq/pull/889) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
+5. 🗣 Commented on [#878](https://github.com/Nurutomo/wabot-aq/issues/878) in [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq)
 <!--END_SECTION:activity-->
 
 </details>
