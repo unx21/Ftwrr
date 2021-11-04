@@ -45,10 +45,6 @@
 
 </details>
 
-  <summary>Gw gapunya skill</summary>
-
-
-
 [website]: https://github.com/Ftwrr
 [whatsapp]: https://api.whatsapp.com/send/?phone=62823944158720&text&app_absent=0
 [sublimetext]: https://www.sublimetext.com/
