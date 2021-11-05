@@ -7,9 +7,10 @@
 
 ## Bukan siapa siapa
 
-- 🌱 Gw lagi ngocok
-- 🥅 2022 Goals: Berhenti ngocok
-- ⚡ Fun fact: Gw suka ngocok
+- 🔭 I’m currently working on my dick
+- 🌱 I’m currently learning everything
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Ga sarapan kecuali hari sekolah
 
 ### Mutualan:
 
